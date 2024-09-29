@@ -1,5 +1,5 @@
 ## Ссылки для установки открытого ПО, без необходимости использования VPN
-
+## Абрамов Сергей
 ### Terraform:  
 
   - [Дистрибутивы](https://hashicorp-releases.yandexcloud.net/terraform/)   
